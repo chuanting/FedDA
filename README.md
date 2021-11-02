@@ -2,6 +2,10 @@
 
 This is the source code for our paper entitled 'Dual Attention-Based Federated Learning for Wireless Traffic Prediction'.
 
+## Datasets
+
+First one [Milano](https://drive.google.com/file/d/1aKh1icdmK9ho3mOZiNg593ivgIeycWKz/view?usp=sharing) and second one [Trentino](https://drive.google.com/file/d/1R-hrUVS1TY6Eec6k6aN_ce4u56LeYNHv/view?usp=sharing)
+
 ## Abstract
 
 Wireless traffic prediction is essential for cellular networks to realize intelligent network operations, such as loadaware
