@@ -6,6 +6,10 @@ This is the source code for our paper entitled 'Dual Attention-Based Federated L
 
 First one [Milano](https://drive.google.com/file/d/1aKh1icdmK9ho3mOZiNg593ivgIeycWKz/view?usp=sharing) and second one [Trentino](https://drive.google.com/file/d/1R-hrUVS1TY6Eec6k6aN_ce4u56LeYNHv/view?usp=sharing)
 
+## Runnable scripts
+
+You can also find an runnable code of our paper at [Codeocean](https://codeocean.com/capsule/4767521/tree)
+
 ## Abstract
 
 Wireless traffic prediction is essential for cellular networks to realize intelligent network operations, such as loadaware
@@ -28,3 +32,9 @@ outperforms state-of-the-art methods. The average mean squared error performance
 ## Update Rules
 
 ![Federated Optimization](./update_rules.png)
+
+
+## Paper
+If you find the code useful, please cite our paper in your work as follows:
+
+C. Zhang, S. Dang, B. Shihada and M. -S. Alouini, "Dual Attention-Based Federated Learning for Wireless Traffic Prediction," IEEE INFOCOM 2021 - IEEE Conference on Computer Communications, 2021, pp. 1-10.
